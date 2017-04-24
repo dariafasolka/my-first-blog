@@ -25,7 +25,7 @@ SECRET_KEY = 'j*lrr6d^^_d1cwzyak2#=cd^#n(l+5)h(_ti7hfni6y$eg3fy3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dariako.pythonanywhere.com', 'localhost']
 
 
 # Application definition
