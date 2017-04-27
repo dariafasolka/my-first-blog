@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['dariako.pythonanywhere.com', 'localhost']
 
+LOGIN_REDIRECT_URL = '/'
+
 
 # Application definition
 
