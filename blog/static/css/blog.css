@@ -1,14 +1,14 @@
 .page-header {
   background-color: lightgrey;
   margin-top: 0;
-  padding: 20px 20px 20px 40px;
+  padding: 20px 20px 20px 50px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
   color: black;
   font-size: 36pt;
   text-decoration: none;
-    }
+}
 
 .icons {
   float: right;
@@ -56,4 +56,13 @@ h1, h2, h3, h4 {
 
 .btn-default {
   float: none;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+.comments_link {
+  color: #828282;
+  font-size: 8pt;
 }
